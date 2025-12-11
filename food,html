@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dominican Republic</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg"/>
+            <h1>DOMINICAN REPUBLIC</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="cities.html"></a>Cities</li>
+                    <li><a href="landmarks.html"></a>landmarks</a></li>
+                    <li><a href="food.html">Food</a></li>
+                   
+                </ul>
+            </nav>
+            </header>
+            <main>
+                <div class="intro">
+                <p>Dominican Cuisine</p>
+                </div>
+                <div class="container">
+        <img src="https://mydominicankitchen.com/wp-content/uploads/2021/09/Sancocho-My-Dominican-Kitchen-4-500x375.jpg">
+                </div>
+            </main>
+            <div class="text-container">
+            <h3>Mangu</h3>
+            <p><!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dominican Republic</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg"/>
+            <h1>DOMINICAN REPUBLIC</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="cities.html">cities</a></li>
+                    <li><a href="landmarks.html">landmarks</a></li>
+                    <li><a href="food.html">food</a></li>
+                </ul>
+            </nav>
+            </header>
+            <main>
+                <div class="intro">
+                <p>Dominican Cuisine</p>
+                </div>
+                <div class="container">
+        <img src="https://aseasonedgreeting.com/wp-content/uploads/2020/03/Mangu-with-pickled-red-onions.jpg">
+                </div>
+            </main>
+            <div class="text-container">
+            <h3>Mangu</h3>
+            <p>Mangu, the Dominican mashed green plantain dish, is good because it's a hearty</p>
+          <div id="container">
+                <img src="https://www.crumbsnatched.com/wp-content/uploads/2025/01/dominican-breakfast-mangu-tres-golpes-featured-480x270.jpg">
+            </div>
+            <div id="text-container">
+                <h3>Mangu</h3>
+                <p>Mangu is a beloved Dominican dish made from boiled down and mashed green plantains, known for its smooth creamy texture and comforting flavors. Mangu is typically served as part of a traditional breakfast called "los tres golpes," it's paired with fried cheese, salami, and eggs, which creates a satisfying meal. The dish has roots in African culinary traditions, reflecting the island's cultural heritage and long-standing appreciation for plantains. Whether it is enjoyed at home or in local eateries, Mangu is more than just food but rather a symbol for Dominican identity, warmth, and community. </p>
+            </div>
+
+                </body>
+                </html>
+            </div>
+            <div id="container">
+                <img src="https://www.crumbsnatched.com/wp-content/uploads/2025/01/dominican-breakfast-mangu-tres-golpes-featured-480x270.jpg">
+            </div>
+            <div id="text-container">
+                <h3>Mangu</h3>
+                <p>Mangu is a beloved Dominican dish made from boiled down and mashed green plantains, known for its smooth creamy texture and comforting flavors. Mangu is typically served as part of a traditional breakfast called "los tres golpes," it's paired with fried cheese, salami, and eggs, which creates a satisfying meal. The dish has roots in African culinary traditions, reflecting the island's cultural heritage and long-standing appreciation for plantains. Whether it is enjoyed at home or in local eateries, Mangu is more than just food but rather a symbol for Dominican identity, warmth, and community. </p>
+            </div>
+
+
+
+
+                </body>
+                </html>
+
